@@ -3,6 +3,17 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+appsettings.json
+appsettings.Development.json
+StaticNLog.cs
+RespostaHttp.cs
+PessoaPut.cs
+PessoaRepositorio.cs
+oldPessoaController.cs
+node_modules/
+MyValidations/
+.vscode/
+
 # User-specific files
 *.rsuser
 *.suo
